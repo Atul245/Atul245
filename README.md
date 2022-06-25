@@ -22,8 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imtiyazCode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atulkumar" /></a></p><br><br><br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkumar&show_icons=true&locale=en&layout=compact" alt="atulkumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulkumar&" alt="atulkumar" /></p>
