@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI AND ML**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **Tech**
 
 - ⚡ Fun fact **I think I am an AI and ML engineer**
 
