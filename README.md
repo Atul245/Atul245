@@ -32,20 +32,37 @@ Fervently dedicated to building intelligent solutions and continuously learning.
 
 ## 🛠️ Tech Stack & Skills
 
-### Languages
-`Python` | `C++` | `JavaScript` | `TypeScript` | `Java`
+### Languages  
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)  
+![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=cplusplus)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=007ACC)  
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java)
 
-### Frontend
-`React` | `HTML5` | `CSS3` | `TailwindCSS`
+### Frontend  
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)  
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=for-the-badge&logo=tailwind-css)
 
-### Backend
-`Node.js` | `Express.js` | `MySQL` | `MongoDB`
+### Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express)  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 
-### ML / AI
-`TensorFlow` | `Scikit-learn` | `Pandas` | `OpenCV`
+### ML / AI  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge&logo=tensorflow)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=for-the-badge&logo=scikit-learn)  
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=for-the-badge&logo=opencv)
 
-### Tools & DevOps
-`AWS` | `Docker` | `Git` | `Jenkins` | `Linux`
+### Tools & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
 
 ---
 
