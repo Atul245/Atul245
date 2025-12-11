@@ -41,6 +41,6 @@ Creating intelligent systems with a calm mind, clean code, and continuous curios
 
 ---
 
-## 🍃 Soft Aesthetic Motto
+## 🍃 Motto
 
 > _“Build gently. Learn deeply. Improve endlessly.”_
